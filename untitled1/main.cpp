@@ -5,7 +5,7 @@ int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
 
-    qDebug()<< "hello world！！！123";
+    qDebug()<< "hello world";
 
     return a.exec();
 }
